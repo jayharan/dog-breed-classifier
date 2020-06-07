@@ -6,7 +6,7 @@ The project involves developing an algorithm to identify the dog breed of a dog 
 This was my final capstone project in the Udacity Machine learning engineer nanodegree. Below are some example outputs from the completed algorithm.
 
 ![Jay Image](./images/example_outputs/jay.png) 
-![GSD Image](./images/example_outputs/GSD.png) 
+![GSD Image](./images/example_outputs/gsd.png) 
 ![Arcanine Image](./images/example_outputs/arcanine.png) 
 ![London Image](./images/example_outputs/london.png) 
 
