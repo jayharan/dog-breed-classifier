@@ -11,23 +11,11 @@ This was my final capstone project in the Udacity Machine learning engineer nano
 ![London Image](./images/example_outputs/london.png) 
 
 **dog_app.ipynb:** Contains all the code for the project
-
-**Notebook 2: Feature Engineering**
-
-* Clean and pre-process the text data.
-* Define features for comparing the similarity of an answer text and a source text, and extract similarity features.
-* Select "good" features, by analyzing the correlations between different features.
-* Create train/test `.csv` files that hold the relevant features and class labels for train/test data points.
-
-**Notebook 3: Train and Deploy Your Model in SageMaker**
-
-* Upload your train/test feature data to S3.
-* Define a binary classification model and a training script.
-* Train your model and deploy it using SageMaker.
-* Evaluate your deployed classifier.
+**images:** Folder containing the required images for the notebook and the readme
+**haarcascades:** Folder containing the pre-trained human face detectors used in the project
 
 ---
 
-Please see the [README](https://github.com/udacity/ML_SageMaker_Studies/tree/master/README.md) in the root directory for instructions on setting up a SageMaker notebook and downloading the project files (as well as the other notebooks).
+Please see this [Repositary](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-dog-classification) from Udacity, for detailed instructions on setting up the project.
 
 
