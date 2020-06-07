@@ -16,6 +16,6 @@ This was my final capstone project in the Udacity Machine learning engineer nano
 
 ---
 
-Please see this [Repositary](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-dog-classification) from Udacity, for detailed instructions on setting up the project.
+Please see this [repository](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-dog-classification) from Udacity, for detailed instructions on setting up the project.
 
 
