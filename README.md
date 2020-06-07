@@ -10,9 +10,8 @@ This was my final capstone project in the Udacity Machine learning engineer nano
 ![Arcanine Image](./images/example_outputs/arcanine.png) 
 ![London Image](./images/example_outputs/london.png) 
 
-**Notebook 1: Data Exploration**
-* Loading in the corpus of plagiarism text data.
-* Exploring the existing data features and the data distribution.
+**dog_app.ipynb**
+* Conotains all the code for the project
 
 **Notebook 2: Feature Engineering**
 
