@@ -3,7 +3,7 @@
 ## Project Overview
 
 The project involves developing an algorithm to identify the dog breed of a dog in a user supplied image. In addition to correctly identiftying images of dogs, the algorithm can also be utilised to return what dog breed a human most resembles.
-This was my final capstone project in the Udacity Machine learning engineer nanodegree. Below are some example outputs from the algorithm.
+This was my final capstone project in the Udacity Machine learning engineer nanodegree. Below are some example outputs from the completed algorithm.
 
 
 
