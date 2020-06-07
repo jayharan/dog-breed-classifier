@@ -10,9 +10,9 @@ This was my final capstone project in the Udacity Machine learning engineer nano
 ![Arcanine Image](./images/example_outputs/arcanine.png) 
 ![London Image](./images/example_outputs/london.png) 
 
-* **dog_app.ipynb:** Contains all the code for the project//
-* **images:** Folder containing the required images for the notebook and the readme//
-* **haarcascades:** Folder containing the pre-trained human face detectors used in the project//
+* **dog_app.ipynb:** Contains all the code for the project
+* **images:** Folder containing the required images for the notebook and the readme
+* **haarcascades:** Folder containing the pre-trained human face detectors used in the project
 
 ---
 
