@@ -10,8 +10,7 @@ This was my final capstone project in the Udacity Machine learning engineer nano
 ![Arcanine Image](./images/example_outputs/arcanine.png) 
 ![London Image](./images/example_outputs/london.png) 
 
-**dog_app.ipynb**
-* Contains all the code for the project
+**dog_app.ipynb:** Contains all the code for the project
 
 **Notebook 2: Feature Engineering**
 
