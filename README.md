@@ -11,7 +11,7 @@ This was my final capstone project in the Udacity Machine learning engineer nano
 ![London Image](./images/example_outputs/london.png) 
 
 **dog_app.ipynb**
-* Conotains all the code for the project
+* Contains all the code for the project
 
 **Notebook 2: Feature Engineering**
 
