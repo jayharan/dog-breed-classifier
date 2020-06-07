@@ -1,5 +1,7 @@
 # Dog Breed Classifier, Udacity Capstone
 
+Machine Learning Engineer Udacity Nanodegree - Final capstone, image recognition for dog breed classification.
+
 ## Project Overview
 
 The project involves developing an algorithm to identify the dog breed of a dog in a user supplied image. In addition to correctly identiftying images of dogs, the algorithm can also be utilised to return what dog breed a human most resembles.
